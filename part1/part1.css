@@ -1,0 +1,41 @@
+
+body {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 10%;
+	margin-left: 10%;
+    background:#DCF0B3;
+    text-align:justify
+}
+
+p {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: left;
+    font-size: 120%;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    line-height: 1.5em;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-decoration: underline
+}
+
+hr  {
+    width:100%;
+    text-align: center;
+}
+
+img {
+    text-align: center;
+}
+
+pre {
+    font-style: italic;
+    text-align: center;
+    font-size: 100%;
+}
