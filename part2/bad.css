@@ -31,8 +31,11 @@ h1 {
     padding: 20px;
 }
 
-.image {
+.side {
     float: right;
+}
+.side p{
+    display: block;
 }
 
 .pic {

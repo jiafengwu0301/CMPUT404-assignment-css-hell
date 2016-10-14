@@ -41,10 +41,17 @@ h1 {
 	font-weight:bold;
 }
 
-.image {
-    padding-top: 2em;
+.side {
     float: right;
     margin: 0em 0em 4em 8em;
+}
+
+.side p{
+    text-align: right;
+    font-size: 120%;
+    display: block;
+    font-family: "Comic Sans MS";
+    text-decoration: underline;
 }
 
 .pic {
