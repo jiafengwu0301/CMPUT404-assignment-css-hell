@@ -1,0 +1,66 @@
+
+body {
+    background: linear-gradient(-90deg, red, yellow);
+	margin-top: -1%;
+	margin-right: 5%;
+	margin-left: 5%;
+}
+
+h1 {
+    text-align: left;
+    font-size: 100%;
+    text-decoration: none;
+}
+
+.menu {
+    list-style-type:none;
+    margin-left: -5%;
+    margin-right: -5%;
+    overflow:hidden;
+    background: linear-gradient(-90deg, white, blue);
+}
+
+.menu li {
+    font-size: 100%;
+    float: left;
+}
+
+.menu li a {
+    display:block;
+    color: red;
+    padding: 20px;
+}
+
+.image {
+    float: right;
+}
+
+.pic {
+    text-align: right;
+}
+
+.informations {
+    text-align: left;
+}
+
+.informations a:link {
+	color: blue;
+}
+
+.informations a:visited {
+	color:purple;
+}
+
+.informations a:active {
+	color: black;
+}
+
+
+.list {
+	list-style: circle;
+    color: orange;
+}
+
+.list li {
+     font-size: 100%;
+}

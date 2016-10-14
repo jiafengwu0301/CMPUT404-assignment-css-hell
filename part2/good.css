@@ -1,0 +1,88 @@
+
+body {
+    background: linear-gradient(-45deg, white, #7badfc);
+	margin-top: -1.5%;
+	margin-right: 8%;
+	margin-left: 8%;
+}
+
+h1 {
+    text-align: left;
+    font-size: 130%;
+	font-family: "Comic Sans MS";
+    text-decoration: underline
+}
+
+/*http://www.w3schools.com/css/css_navbar.asp*/
+.menu {
+    list-style-type:none;
+    margin-left: -10%;
+    margin-right: -10%;
+    overflow: auto;
+    background: linear-gradient(-90deg, grey, #333);
+}
+
+.menu li {
+    padding-left: 2em;
+    font-family: "Comic Sans MS";
+    font-size: 130%;
+    float: left;
+}
+
+.menu a {
+    display:block;
+    color: white;
+    padding: 1em;
+    text-decoration: underline;
+}
+
+.menu a:hover {
+	text-decoration: underline;
+	font-weight:bold;
+}
+
+.image {
+    padding-top: 2em;
+    float: right;
+    margin: 0em 0em 4em 8em;
+}
+
+.pic {
+    border: 2px solid;
+    text-align: right;
+}
+
+.informations {
+    text-align: left;
+    font-family: "Comic Sans MS";
+    font-size: 110%;
+}
+
+.informations a:link {
+	text-decoration: underline;
+	color: black;
+}
+
+.informations a:hover {
+	text-decoration: underline;
+	font-weight:bold;
+}
+
+.informations a:visited {
+	text-decoration:underline;
+	color: #433D3C;
+}
+
+.informations a:active {
+	color: black;
+}
+
+.list {
+	list-style-type: circle;
+    padding-left: 2em;
+}
+
+.list li {
+	 margin-top: 1em;
+     padding-left: 1em;
+}
